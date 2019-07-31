@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_XMLInjectionVulnerab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_XMLInjectionMitigation", "DotNet_XMLInjectionMitigation\DotNet_XMLInjectionMitigation.csproj", "{3F532F18-ED14-4917-9E6E-51609C7AD915}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_SQLiVulnerability", "DotNet_SQLiVulnerability\DotNet_SQLiVulnerability.csproj", "{1A11346B-2852-4EE0-A90A-9A87D707DF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet_PluggableEncryption", "DotNet_PluggableEncryption\DotNet_PluggableEncryption.csproj", "{5D770EB5-2CEA-42BD-849D-34B468E06A31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{3F532F18-ED14-4917-9E6E-51609C7AD915}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F532F18-ED14-4917-9E6E-51609C7AD915}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F532F18-ED14-4917-9E6E-51609C7AD915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A11346B-2852-4EE0-A90A-9A87D707DF89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A11346B-2852-4EE0-A90A-9A87D707DF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A11346B-2852-4EE0-A90A-9A87D707DF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A11346B-2852-4EE0-A90A-9A87D707DF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D770EB5-2CEA-42BD-849D-34B468E06A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D770EB5-2CEA-42BD-849D-34B468E06A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D770EB5-2CEA-42BD-849D-34B468E06A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D770EB5-2CEA-42BD-849D-34B468E06A31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
